@@ -4,8 +4,13 @@ The whole project is based on object recognition, video tracking, motion estimat
 
 input frame: 
 
-![NewPicture](https://github.com/user-attachments/assets/e841982e-b9bb-4500-8627-e94502ad4d18)
 
-Output frame
+![NewPicture](https://github.com/user-attachments/assets/30c706dc-db2e-4d32-8035-00aa3f5d7a31)
 
-: ![output](https://github.com/user-attachments/assets/74e979b0-4b74-4107-89d4-a0b156d0b787)
+
+Output frame:
+
+
+![output](https://github.com/user-attachments/assets/863bfa29-bb7c-4eba-a1f9-d73c857746b8)
+
+
